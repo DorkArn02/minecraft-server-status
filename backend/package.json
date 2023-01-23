@@ -5,7 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "pnpm build",
     "start": "nodemon index.js"
   },
   "keywords": [],

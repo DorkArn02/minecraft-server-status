@@ -7,4 +7,4 @@ const app = express()
 app.use(cors())
 app.use('/api', router)
 
-app.listen('443', () => console.log('Listening on :443'))
+app.listen('8080', () => console.log('Listening on :8080'))
